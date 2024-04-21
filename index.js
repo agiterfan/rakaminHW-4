@@ -59,6 +59,8 @@ for (let i = 0; i < indexOdd.length; i++){
 console.log("\nNilai maksimal dari array index ganjil adalah = "+maxOdd)
 console.log("Nilai minimal dari array index ganjil adalah = "+minOdd)
 
+// Total dan rata-rata dari kedua array
+
 function totalValue(randomNumber) {
     let total = 0
     for (let i = 0; i < randomNumber.length; i++) {
